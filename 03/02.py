@@ -2,7 +2,7 @@ from pylab import *
 from math import *
 
 g = 9.8
-b2m = 1e-5
+b2m = 4e-5
 
 class flight_state:
 	def __init__(self, _x = 0, _y = 0, _vx = 0, _vy = 0, _t = 0):
