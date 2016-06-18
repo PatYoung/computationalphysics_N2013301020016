@@ -10,7 +10,7 @@
 *  [**第八次作业**](https://github.com/PatYoung/computationalphysics_N2013301020016/blob/master/05.md)
 *  [**第九次作业**](https://github.com/PatYoung/computationalphysics_N2013301020016/blob/master/09.md)
 *  [**第十次作业**](https://github.com/PatYoung/computationalphysics_N2013301020016/blob/master/10.md)
-*  [**第十一次作业（待完成）**](https://github.com/PatYoung/computationalphysics_N2013301020016/blob/master/11.md)
+*  [**第十一次作业**](https://github.com/PatYoung/computationalphysics_N2013301020016/blob/master/11.md)
 *  [**第十二次作业（未开始）**](https://github.com/PatYoung/computationalphysics_N2013301020016/blob/master/12.md)
 *  [**第十三次作业（未开始）**](https://github.com/PatYoung/computationalphysics_N2013301020016/blob/master/13.md)
 *  [**期末论文（文件夹仅有word文档及程序没有markdown文档）**](https://github.com/PatYoung/computationalphysics_N2013301020016/tree/master/%E8%AE%BA%E6%96%87)
